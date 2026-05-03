@@ -3,3 +3,5 @@ tensorflow-cpu==2.15.0
 numpy==1.24.4
 pillow==9.5.0
 protobuf==3.20.3
+plotly
+pandas
